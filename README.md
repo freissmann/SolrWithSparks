@@ -1,5 +1,5 @@
 # SolrWithSparks
-This are the sources for a tutorial post on http://qaware.blogspot.de/
+This are the sources for a tutorial post on http://qaware.blogspot.de/2015/06/solr-with-sparks-or-how-to-submit-spark.html
 
 The folder "libs_to_transfer" is empty on purpose you must download or build the needed jars yourself.
 * spark-solr-1.0-SNAPSHOT.jar - Built by packaging 'spark-solr' https://github.com/LucidWorks/spark-solr
